@@ -1,0 +1,136 @@
+
+.logout{
+    float: right;
+    margin-top: 50px;
+    margin-right: 20px;
+    font-size: 14px;
+}
+header{
+    width: 100%;
+    height: 80px;
+    background-color: white;
+    box-shadow: 2px 2px 4px lightgray;
+    text-align: center;
+    margin-top: -30pxpx;
+}
+
+header img{
+    margin-top: 15px;
+    height: 50px;
+   
+    
+}
+
+
+
+
+
+
+.form_contents{
+    margin: 0 auto;
+    width: 500px;
+    height:500px;
+    background-color: #fff;
+    margin-bottom: 40px;
+    border:  1px lightgray solid;
+    margin-top: 20px;
+    border-radius: 5px;
+    box-shadow: 4px 4px 4px lightgray
+        
+}
+
+h2{
+    text-align: center;
+    margin: 0 auto;
+    border-bottom: solid 1px #31A263;
+    font-size: 20px;
+    margin-left: 10px;
+    margin-right: 10px;
+    padding-top: 30px;
+}
+
+.konitiha{
+	margin-left: 20px;
+}
+
+.ziko{
+    width: 140px;
+    border: 1px solid gray;
+    margin-left: 30px;
+	float: left;
+  
+}
+
+ul{
+	list-style: none;
+	
+}
+
+li{
+	margin-left: 170px;
+	margin-top: 10px;
+}
+
+.comment{
+	clear: left;
+	margin-left: 20px;
+	margin-top: 60px;
+}
+
+.formbutton{
+	text-align: center;
+	margin-top: 110px;
+}
+
+
+
+.button{
+ 
+    border: 1px solid lightgray;
+    padding: 6px 60px 4px 60px;
+    color: white;
+    background-color:#31A263;
+    border-radius: 5px;
+    border-bottom: solid 2px gray;
+    width: 200px;
+    margin-bottom: 20px;
+	
+}
+
+form p{
+	height: 20px;
+}
+
+.button1{
+	
+	
+	border: 1px solid lightgray;
+    padding:5px 20px;
+    color: white;
+    background-color:#31A263;
+    border-radius: 5px;
+    border-bottom: solid 2px gray;
+    width: 200px;
+	margin-bottom:40px;
+
+	
+   
+	
+}
+
+	
+	
+footer{
+    width: 100%;
+    height: 40px;
+    background-color: white;
+    color: gray;
+    text-align: center;
+    line-height: 40px;
+    font-size:13px;
+    border-top: lightgray solid 2px;
+}
+
+	
+	
+	
